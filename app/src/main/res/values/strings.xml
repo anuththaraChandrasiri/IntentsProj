@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IntentsProj</string>
+    <string name="enter_number1">Enter number 1</string>
+    <string name="enter_number2">Enter number 2</string>
+    <string name="button_ok">OK</string>
+    <string name="text_message">Can\'t divide by 0!</string>
+</resources>
